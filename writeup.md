@@ -1,8 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
-
+**Name:**Aylish Irizarry
+**Date:** 8/19/25
 ---
 
 ## Reading Comprehension Questions
@@ -10,7 +9,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+The differance between Git and GitHib is that Git is a control system which saves previous changes and allows the user to go back to them. GitHub is the the place in which Git is used  
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
