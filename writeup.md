@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:**Aylish Irizarry
-**Date:** 8/19/25
+Aylish Irizarry
+8/19/25
 ---
 
 ## Reading Comprehension Questions
@@ -13,12 +13,11 @@ The differance between Git and GitHib is that Git is a control system which save
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+committing is making edits to the repository content and pushing is adding it the the repository. This is important because this is how you make changes.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
-
+A repository is a folder for work
 ---
 
 ## Profile Repository Link
