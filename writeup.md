@@ -30,9 +30,9 @@ A repository is a folder for work
 
 ## Looking Ahead
 
-Im most excited to learn how Ai works and how to get the best usage out of it. 
+**Im most excited to learn how Ai works and how to get the best usage out of it. **
 
-[Your answer here - feel free to write a paragraph or more!]
+
 
 ---
 
