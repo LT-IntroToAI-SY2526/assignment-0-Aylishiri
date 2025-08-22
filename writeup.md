@@ -24,13 +24,13 @@ A repository is a folder for work
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+(https://github.com/Aylishiri/Aylishiri)
 
 ---
 
 ## Looking Ahead
 
-**What aspect of AI are you most excited to learn about this year? Explain why.**
+Im most excited to learn how Ai works and how to get the best usage out of it. 
 
 [Your answer here - feel free to write a paragraph or more!]
 
